@@ -53,4 +53,7 @@ The checker runs locally. It sends no participant names or rules to a server.
 
 ## License
 
-MIT. Contributions and edge-case reports are welcome.
+MIT. Contributions and edge-case reports are welcome.## Further guides
+
+- [How to prove a constrained Secret Santa draw is possible](https://dev.to/han_lou_493c3fecccc66c1f0/how-to-prove-a-secret-santa-draw-is-possible-before-sending-invitations-53h6)
+- [How to repair a draw after one participant withdraws](https://dev.to/han_lou_493c3fecccc66c1f0/a-participant-dropped-out-of-secret-santa-repair-the-draw-without-exposing-everyone-3h9i)
